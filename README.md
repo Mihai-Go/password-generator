@@ -48,9 +48,6 @@ Generated password: vW9!pQa3$LsBz&2x
 - Save generated passwords to a file
 - Build a simple GUI
 
-## License
-
-This project is open source under the MIT License.
 
 ---
 
